@@ -25,4 +25,4 @@ Huge thanks to me myself and I, whom helped bring this dream landscape to life! 
 Ps:
 All pictures avaiable in [here](WhisperingWoods_Images)!
 
-Huge shoutout to my slave Lima for helping me with the screenshots.
+Huge shoutout to my friend Lima for helping me with the screenshots.
