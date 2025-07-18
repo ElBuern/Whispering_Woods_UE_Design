@@ -2,7 +2,7 @@
 
 Huge thanks to me myself and I, whom helped bring this dream landscape to life! Couldn't have done it without my support—and the full power of Unreal Engine.
 
-![Cover]()
+![Cover](WhisperingWoods_Images/image4.png)
 
 
 
