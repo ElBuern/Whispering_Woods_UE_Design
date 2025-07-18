@@ -23,4 +23,5 @@ Huge thanks to me myself and I, whom helped bring this dream landscape to life! 
 ![Cover](WhisperingWoods_Images/imageday.png)
 
 Ps:
+All pictures avaiable in [here](WhisperingWoods_Images)!
 Huge shoutout to my slave Lima for helping me with the screenshots.
