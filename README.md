@@ -17,7 +17,9 @@ Huge thanks to me myself and I, whom helped bring this dream landscape to life! 
 ![Cover](WhisperingWoods_Images/image6.png)
 
 ### Night
-
+![Cover](WhisperingWoods_Images/imagenight.png)
+### Day
+![Cover](WhisperingWoods_Images/imageday.png)
 
 Ps:
 Huge shoutout to my slave Lima for helping me with the screenshots.
