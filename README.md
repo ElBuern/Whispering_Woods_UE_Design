@@ -15,7 +15,7 @@ Huge thanks to me myself and I, whom helped bring this dream landscape to life! 
 ![Cover](WhisperingWoods_Images/image.png)
 **<p align="center"> ╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳ </p>**
 ![Cover](WhisperingWoods_Images/image6.png)
-
+"...But I stayed there for a ceuntry. The whispering woods grew with time." -Mavis
 
 ### <p align="center"> ☆゜・。。・゜゜・。。・゜★ Night ☆゜・。。・゜゜・。。・゜★ </p>
 ![Cover](WhisperingWoods_Images/imagenight.png)
