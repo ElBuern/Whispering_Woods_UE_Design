@@ -13,6 +13,7 @@ Huge thanks to me myself and I, whom helped bring this dream landscape to life! 
 
 "On their plan to stop the curse? By chopping down the trees?" -Xuwei
 ![Cover](WhisperingWoods_Images/image.png)
+
 ![Cover](WhisperingWoods_Images/image6.png)
 
 ### Night
